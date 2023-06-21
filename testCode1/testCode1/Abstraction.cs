@@ -1,36 +1,54 @@
-﻿using System;
+﻿
+using System;
 
-namespace MyApplication
+namespace Demoabstraction
 {
+
     
-    abstract class Animal
+    abstract class Shape
     {
-       
-        public abstract void animalSound();
-       
-        public void sleep()
-        {
-            Console.WriteLine("Zzz");
-        }
+
+        
+        public abstract int area();
     }
 
    
-    class Pig : Animal
+    class Square : Shape
     {
-        public override void animalSound()
+
+       
+        private int side;
+
+        
+        public Square(int x = 0)
         {
-            
-            Console.WriteLine("The pig says: wee wee");
+            side = x;
+        }
+
+        
+        public override int area()
+        {
+            Console.Write("Area of Square: ");
+            return (side * side);
         }
     }
 
-    class Program
+    
+    class GFG
     {
+
+      
         static void Main(string[] args)
         {
-            Pig myPig = new Pig();
-            myPig.animalSound();
-            myPig.sleep();
+
+            
+            Shape sh = new Square(4);
+
+           
+            double result = sh.area();
+
+            Console.Write("{0}", result);
+
         }
     }
 }
