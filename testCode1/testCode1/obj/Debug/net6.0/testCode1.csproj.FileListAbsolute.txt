@@ -1,0 +1,15 @@
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\bin\Debug\net6.0\testCode1.exe
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\bin\Debug\net6.0\testCode1.deps.json
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\bin\Debug\net6.0\testCode1.runtimeconfig.json
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\bin\Debug\net6.0\testCode1.dll
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\bin\Debug\net6.0\testCode1.pdb
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\obj\Debug\net6.0\testCode1.csproj.AssemblyReference.cache
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\obj\Debug\net6.0\testCode1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\obj\Debug\net6.0\testCode1.AssemblyInfoInputs.cache
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\obj\Debug\net6.0\testCode1.AssemblyInfo.cs
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\obj\Debug\net6.0\testCode1.csproj.CoreCompileInputs.cache
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\obj\Debug\net6.0\testCode1.dll
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\obj\Debug\net6.0\refint\testCode1.dll
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\obj\Debug\net6.0\testCode1.pdb
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\obj\Debug\net6.0\testCode1.genruntimeconfig.cache
+C:\Users\Niraj Shetty\source\repos\testCode1\testCode1\obj\Debug\net6.0\ref\testCode1.dll
