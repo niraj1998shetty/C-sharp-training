@@ -39,6 +39,32 @@ var issue=await _context.Issues.FindAsync(id);
             return CreatedAtAction(nameof(GetById), new { id = issue.Id }, issue);
         }
 
+        [HttpPut("{id}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public async Task<IActionResult> Update(int id, Isssue issue)
+        {
+            if (id != issue.Id) return BadRequest();
 
+            _context.Entry(issue).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+
+        [HttpDelete("{id}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var issueToDelete= await _context.Issues.FindAsync(id);
+            if (issueToDelete == null) return NotFound();
+
+            _context.Issues.Remove(issueToDelete);
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
     }
 }
