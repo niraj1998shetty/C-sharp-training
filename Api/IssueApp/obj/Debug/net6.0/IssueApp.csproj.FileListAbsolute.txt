@@ -1,0 +1,15 @@
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\bin\Debug\net6.0\IssueApp.exe
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\bin\Debug\net6.0\IssueApp.deps.json
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\bin\Debug\net6.0\IssueApp.runtimeconfig.json
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\bin\Debug\net6.0\IssueApp.dll
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\bin\Debug\net6.0\IssueApp.pdb
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\obj\Debug\net6.0\IssueApp.csproj.AssemblyReference.cache
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\obj\Debug\net6.0\IssueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\obj\Debug\net6.0\IssueApp.AssemblyInfoInputs.cache
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\obj\Debug\net6.0\IssueApp.AssemblyInfo.cs
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\obj\Debug\net6.0\IssueApp.csproj.CoreCompileInputs.cache
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\obj\Debug\net6.0\IssueApp.dll
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\obj\Debug\net6.0\refint\IssueApp.dll
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\obj\Debug\net6.0\IssueApp.pdb
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\obj\Debug\net6.0\IssueApp.genruntimeconfig.cache
+C:\Users\Niraj Shetty\source\repos\Api\IssueApp\obj\Debug\net6.0\ref\IssueApp.dll
